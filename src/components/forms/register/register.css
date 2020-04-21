@@ -1,0 +1,14 @@
+input, .ant-select-selector {
+    border-radius: 25px !important;
+    height: 40px !important;
+
+}
+
+.spn{
+ 
+    color: red;
+    position: relative;
+    left: 0px;
+    right: 150px;
+  
+}

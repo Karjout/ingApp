@@ -1,0 +1,15 @@
+.NavBar{
+    background-color:#fff ;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) ;
+    height: 60px;
+}
+
+.connexion {
+    background-color:#FF580C !important ;
+    margin: 8px;
+    font-weight: 800;
+    border: none !important;
+    color:#fff !important;
+    width: 150px;
+    float: right;
+}
